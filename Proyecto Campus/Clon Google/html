@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://kit.fontawesome.com/712575d4a5.js" 
+    crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Clon Google</title>
+</head>
+<body>
+    <header class="barra1">
+        <div> 
+                    <a href="https://mail.google.com/mail/u/0/#inbox" class="decoracion1 pf">Gmail</a>
+                    <a href="https://www.google.com.mx/imghp?hl=en&ogbl" class="decoracion1 pf">Images</a>
+                    <img src="../Clon Google/Imagenes/apps.JPG" alt="apps" class="link1 pf2">
+                    <img src="../Clon Google/Imagenes/perfil.JPG" class="link1 pf2">
+                    </div>
+</header>
+ <main>
+
+
+    <div class="logo ">
+        <img src="../Clon Google/Imagenes/google.JPG" alt="google">
+        </div>
+
+
+      <section class="centrar ">
+           <div class="buscar">
+               <input type="text" placeholder="Buscar" required>
+               <div class="btn">
+                 <i class="fas fa-search "></i>
+
+               </div>
+           </div>
+        </section >
+       
+
+
+<section > 
+    <div class=" logo">
+        <button class="boton espacios hover">Google Search</button>
+            <button class="boton espacios hover ">Im Feeling Lucky</button>
+        </div>
+        <p class="textogoogle  " >Google ofered in : <a href="#">Google (Latino America)</a></p>
+    </section>
+
+
+
+
+    </main>
+<section class="seccion">
+        <footer class="menufinal navegadorfinal espacio" >
+            <img src="../Clon Google/Imagenes/barra2.JPG" alt="google" class="barra">
+            <h3 class="decoracion1 pf espacios">Mexico</h3>
+            <div>
+              
+        <a  class="decoracion1 pf" href="https://about.google/?utm_source=google-MX&utm_medium=referral&utm_campaign=hp-footer&fg=1">About</a>
+        <a  class="decoracion1 pf" href="https://ads.google.com/intl/en_mx/home/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1">Advertising</a>
+        <a  class="decoracion1 pf" href="https://smallbusiness.withgoogle.com/intl/es-419_mx/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google&utm_medium=ep&utm_campaign=google_hpbfooter&utm_content=google_hpbfooter&gmbsrc=ww-ww-et-gs-z-gmb-s-z-u~sb-g4sb_srvcs-u&c=MX#!/">Business</a>
+        <a  class="decoracion1 pf" href="https://www.google.com/search/howsearchworks/?fg=1">How search works</a>
+            </div>
+    
+           
+
+        <div class="textofooter decoracion1 pf2 espacios2">
+        <a class="decoracion1 pf" href="https://policies.google.com/terms?hl=en-MX&fg=1">Terms</a> 
+        <a class="decoracion1 pf" href="https://policies.google.com/privacy?hl=en-MX&fg=1">Privacy</a> 
+        <a class="decoracion1 pf" href="#"> Settings</a> 
+            </div>
+        </footer> 
+        </section>
+
+
+</body>
+</html>
