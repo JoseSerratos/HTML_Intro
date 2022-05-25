@@ -43,7 +43,7 @@
         <button class="boton espacios hover">Google Search</button>
             <button class="boton espacios hover ">Im Feeling Lucky</button>
         </div>
-        <p class="textogoogle  " >Google ofered in : <a href="#">Google (Latino America)</a></p>
+        <p class="textogoogle  " >Google ofered in : <a href="https://www.google.com/">Google (Latino America)</a></p>
     </section>
 
 
