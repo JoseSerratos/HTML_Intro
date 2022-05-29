@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles2.css">
+    <title>Mi CV</title>
+</head>
+<body>
+
+    <header class=" header" >
+        <h1 class="titulo">Curriculum Vitae</h1>
+    </header>
+    
+    
+<div class=" margen" > 
+    <h1 class="  espacios espacios2">Personal Information:</h1>
+    <p class="espacios3">Full Name: Jose Francisco Serratos Chavarria</p>
+    <p class="espacios3">Birth Place: Zumpango De Ocampo, Estado de México.</p>
+    <p class="espacios3">Birth Day: October 4th , 1994</p>
+    <p class="espacios3">Address: Calle: Dr. Gonzalo Castañeda, N.618, Colonia: Doctores, Pachuca Hidalgo. </p>
+    <p class="espacios3">Celphone: (771) 1617071</p>
+    <p class="espacios3">E-mail: josefranciscoserratosch@hotmial.com</p>
+</div>
+
+<section class=" margen">
+    <h1 class="espacios espacios2"> Education:</h1>
+    <p class="espacios3">2014-2021: Bachelor Compuer Science UAEH (Univerdidad Autonoma Del Estado de Hidalgo)</p>
+    <p class="espacios3">2009-2012: Highschool: ITLA (Instituto Tecnologico Latinoamericano</p>
+
+</section>
+
+<div class="carrer">
+    <h1 class="espacios espacios2">Carrer:</h1>
+    <p class="espacios3">2021: Spanish Captioning Agent, Caption call (Salt lake City) </p>
+    <p class="espacios3">2020: Professional Practices, UAEH - Business Center UAEH S.A. of C.V.(Hidalgo) </p>
+    <p class="espacios3">2019: Spanish Captioning Agent, Caption call (Salt lake City) </p>
+    <p class="espacios3">2018: Developer at systems area, database controller & support in the systems area, Agency B12 (CDMX) </p>
+    <p class="espacios3">2018: Social Service, Animation in Unity, modeling and navigation in a virtual world (Ceca (Academic Computing Center, UAEH (Hidalgo) </p>
+    <p class="espacios3">2018: Modeling and navigation of Chichen Itza (Made in Unity and 3d Max (Hidalgo) </p>
+    <p class="espacios3">2017: Developed a system that detects diseases through symptoms Based on knowledge, designed in java </p>
+</div>
+
+
+
+<div class=" posicion">
+<h1 class="espacios espacios2 ">Skills:</h1>
+
+    <li class="espacios3" > Modeling and Walkthroughs: Autodesk 3ds Max Studio, Unity.</li>
+    <li class="espacios3" > Network Simulation: Cisco Packet Tracer. </li>
+    <li class="espacios3"> Programming Languages: Java , C++. </li>
+    <li class="espacios3"> Web Programming:  Html, Html 5. /li>
+
+</li>
+</div>
+
+<div class="circulo circuloposicion">
+    <img src="../MiCV/Imagenes/paco2.jpg" class="imagen">
+</div>
+
+
+<footer > 
+    
+    <div class="footer">
+            <a class="regresar" href="../MiCV/index.html"> Regresar</a>
+        <h2> Social Networks:</h2>
+   <a href="https://www.facebook.com/"><img src="../MiCV/Imagenes/facebook.png" class="tamaño"></a>
+   <a href="https://github.com/JoseSerratos"><img src="../MiCV/Imagenes/github.png" class="tamaño"></a>
+</footer>
+    </div>
+    
+</body>
+</html>
+
